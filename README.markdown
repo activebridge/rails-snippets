@@ -1,4 +1,4 @@
-Better Snipmate Snippets for VIM
+Rails Snipmate Snippets for VIM
 ========================
 
 Short info...
@@ -12,7 +12,7 @@ Installation
 I recommend installing `vundle`, and
 then simply add next line to your vimrc file:
 
-    Bundle 'galulex/rails-snippets'
+    Bundle 'activebridge/rails-snippets'
 
 Issues
 ------
