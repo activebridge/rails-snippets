@@ -18,7 +18,7 @@ Issues
 ------
 
 Did you find issue?
-Please report it [here](https://github.com/activebrdige/rails-snippets/issues).
+Please report it [here](https://github.com/activebridge/rails-snippets/issues).
 Thanks!
 
 TODO
